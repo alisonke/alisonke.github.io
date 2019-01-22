@@ -1,5 +1,6 @@
 name: "Alison Ke"
 output_dir: "."
+theme: "minty"
 navbar:
   title: "Alison Ke"
   left: 
@@ -9,6 +10,8 @@ navbar:
     href: research.html
   - text: "CV"
     href: cv.html
+  - text: "Service"
+    href: service.html
 
   right:
     - text: "Contact"
