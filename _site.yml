@@ -1,26 +1,19 @@
 ---
-name: "radix"
-title: "Radix for R Markdown"
+name: "Alison Ke"
+output_dir: "."
 navbar:
-  logo:
-    image: images/logo.png
-    href: https://www.rstudio.com
-  right:
+  title: "Alison Ke"
+  left: 
     - text: "Home"
       href: index.html
-    - text: "Tables"
-      href: tables.html
-    - text: "Citations"
-      href: citations.html
-    - text: "Publish"
-      menu:
-        - text: "Publishing Articles"
-          href: publish_article.html
-        - text: "Publishing a Website"
-          href: publish_website.html
-        - text: "---"
-        - text: "Article Metadata"
-          href: metadata.html
-    - icon: fab fa-github
-      href: https://github.com/rstudio/radix
+    - text: "Research"
+      href: research.html
+    - text: "CV"
+      href: cv.html
+    - text: "Service"
+      href: service.html
+
+  right:
+    - text: "Contact"
+      href: contact.html
 ---
