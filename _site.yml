@@ -1,6 +1,6 @@
 name: "Alison Ke"
 output_dir: "."
-theme: "minty"
+theme: minty
 navbar:
   title: "Alison Ke"
   left: 
