@@ -1,0 +1,9 @@
+---
+title: "cv"
+output: html_document
+theme: minty
+---
+
+<object data="CV_012319.pdf" type="application/pdf" width="300" height="200">
+  alt : <a href="CV_012319.pdf">CV_012319.pdf</a>
+</object>
