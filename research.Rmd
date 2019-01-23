@@ -53,7 +53,7 @@ The way species use their surrounding habitat likely changes between varying amo
 #### Does nesting habitat limit cavity-nesting birds in tropical agricultural landscapes?
 </h3>
 
------------------------   ------------------------------------
+-----------------------   -------------------------------------
 <img src = DSC_0385.JPG>    \      One group of species that is particularly threatened by land-use change is cavity-nesting birds, which depend on tree cavities to breed and roost. The highest diversity of cavity-nesters in the Neotropics (678 species), and Cavity-nesters play important roles in ecosystems by dispersing seeds, pollinating plants, and controlling pests. However, it is unknown whether cavity-nesters are limited by nesting habitat or other factors (e.g. food, predation) in agricultural landscapes.To understand whether agriculture is a sink habitat for Neotropical cavity-nesting birds, I plan to conduct a nest box addition experiment and measure cavity availability and fitness metrics (cavity occupancy, nest survival, and predation) of cavity-nesting birds in farms and forests in Ecuador. Simultaneously, this experiment will test the efficacy of artificial cavities as a solution to cavity limitation. To our knowledge, this is the first nest box experiment in tropical croplands, which make up a large proportion of the world’s land area.
 
 ----------------------------------------------------------------
