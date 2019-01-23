@@ -1,0 +1,15 @@
+---
+title: ""
+output: html_document
+---
+<br>
+<br>
+
+Currently, my art page is located at <a href="https://a-ke.weebly.com">https://a-ke.weebly.com</a>.
+<br>
+
+Some of my wildlife photograhy is on my <a href="https://www.instagram.com/indicator_indicator/">Instagram</a>.
+<br>
+Check it out!
+
+

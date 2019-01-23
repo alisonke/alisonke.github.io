@@ -5,6 +5,7 @@ theme: minty
 ---
 <br>
 <center>#**Alison Ke**
+Email: ake@ucdavis.edu
 <br>
 
 <center>![](IMG_1547.jpg){width=240px}![](IMG_7562.JPG){width=595px }
