@@ -12,9 +12,7 @@ navbar:
     href: cv.html
   - text: "Service"
     href: service.html
-
+    
   right:
-    - text: "Art"
-      href: art.html
-
-
+  - text: "Art"
+    href: art.html
