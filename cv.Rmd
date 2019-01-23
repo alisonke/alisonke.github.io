@@ -8,3 +8,4 @@ theme: minty
 <object data="CV_012319.pdf" type="application/pdf"width=1000 height=2000>
     <embed src="CV_012319.pdf" type="application/pdf" />
 </object>
+
