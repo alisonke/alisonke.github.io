@@ -3,9 +3,10 @@ title: ""
 output: html_document
 theme: minty
 ---
+<br>
+<br>
+<br>
+<a href="CV_012319.pdf" target="_blank">Download CV</a>
 
 
-<object data="CV_012319.pdf" type="application/pdf"width=1000 height=2000>
-    <embed src="CV_012319.pdf" type="application/pdf" />
-</object>
 
