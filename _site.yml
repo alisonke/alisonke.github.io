@@ -13,6 +13,6 @@ navbar:
   - text: "Service"
     href: service.html
     
-  right:
-  - text: "Art"
-    href: art.html
+#  right:
+#  - text: "Art"
+#    href: art.html
