@@ -21,7 +21,7 @@ theme: minty
 </h3>
 
 <div align="left">
-It is critical to understand which species are most vulnerable to climate and land-use change in order to prevent biodiversity  loss and design forward-looking conservation strategies. To contribute to this understanding, I set up a study system in 2018 in 12 farms and adjacent forests along a precipitation gradient in the Magdalena River Valley, Colombia. I sampled birds and measured vegetation structure at 144 total sites to measure the effects of both climate and land-use. This year (2019), we will obtain an additional year of data at the same sites. We will use the bird communities along with species traits to identify which characteristics make species most vulnerable to global changes. Then, we will use a comparable study system in Costa Rica to see if (1) there are large-scale patterns in the species traits that confer resilience or vulnerability to climate and land-use change, and (2) if models predicting community assemblages are transferable across countries. We hope to help understand how to conserve threatened species while creating a model that predicts unobserved species abundances based on species traits and environmental factors.
+It is critical to understand which species are most vulnerable to climate and land-use change in order to prevent biodiversity  loss and design forward-looking conservation strategies. To contribute to this understanding, I set up a study system in 2018 in 12 farms and adjacent forests along a precipitation gradient in the Magdalena River Valley, Colombia. I sampled birds and measured vegetation structure at 144 total sites to measure the effects of both climate and land-use. This year (2019), we will obtain an additional year of data at the same sites. We will use the bird communities along with species traits to identify which characteristics make species most vulnerable to global changes. Then, we will use a comparable study system in Costa Rica to see if (1) there are large-scale patterns in the species traits that confer resilience or vulnerability to climate and land-use change, and (2) if models predicting community assemblages are transferable across countries. We hope to help understand how to conserve threatened species while creating a model that predicts unobserved species abundances based on species traits and environmental factors. See more about my summer adventures <a href="https://caes.ucdavis.edu/news/adapting-change">here</a>.
 </div>
 <br> 
 
@@ -49,7 +49,7 @@ The way species use their surrounding habitat likely changes between varying amo
 </div>
 <br>
 <br>
-![](DSC_0385.JPG){width=30%}   
+![](DSC_0385.JPG){width=21%}![](GOPR0325.JPG){width=35%}![](IMG_3859.JPG){width=18%}    
 <br>
 
 <br>
@@ -60,3 +60,6 @@ The way species use their surrounding habitat likely changes between varying amo
 One group of species that is particularly threatened by land-use change is cavity-nesting birds, which depend on tree cavities to breed and roost. The highest diversity of cavity-nesters in the Neotropics (678 species), and cavity-nesters play important roles in ecosystems by dispersing seeds, pollinating plants, and controlling pests. However, it is unknown whether cavity-nesters are limited by nesting habitat or other factors (e.g. food, predation) in agricultural landscapes. To understand whether agriculture is a sink habitat for Neotropical cavity-nesting birds, I conducted a nest box addition experiment and measured cavity availability in farms and forests in Ecuador. Simultaneously, this experiment will test the efficacy of artificial cavities as a solution to cavity limitation. To our knowledge, this is the first nest box experiment in tropical croplands, which make up a large proportion of the world’s land area.
 </div>
 <br>
+
+   
+

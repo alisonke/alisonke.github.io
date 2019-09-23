@@ -13,7 +13,7 @@ theme: minty
 <br>
 
 <figure>
- <img src="IMG_1867.jpg" width = 30% />
+ ![](DSC_0021.jpg){width=30%}![](IMG_2642.jpg){width=24%}![](IMG_2742.jpg){width=26%} 
 </figure>
 <br>
 <div align="left">
