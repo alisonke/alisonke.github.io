@@ -1,0 +1,29 @@
+
+model {
+# Priors
+   mu.omega ~ dnorm(0,0.01)
+   mean.omega <- 1/(1+exp(-mu.omega))
+   beta.omega ~ dnorm(0,0.01)
+   lambda ~ dgamma(0.001, 0.001)
+   p ~ dunif(0, 1)
+#Likelihood
+   for (r in 1:n.region) {
+    for (k in 1:n.species) {
+      w[k,r] ~ dbern(omega[r])
+      
+    for (i in 1:n.sites) {
+        mu.lambda[k,i,r] <- lambda*w[k,r]
+        N[k,i,r] ~ dpois(mu.lambda[k,i,r])      # State model
+     
+      for (j in 1:n.visits) {
+          C[k,i,j,r] ~ dbin(p, N[k,i,r]) # Observation model
+      }
+   }
+    }
+   }
+  for (r in 1:n.region) {
+	   logit(omega[r]) <- mu.omega + beta.omega * Canyon_area[r] #Indicator of whether species occurs in region, with covariates here for species richness
+	   N.total[r] <- sum(w[,r]) #Total species richness per region
+   }
+}
+
