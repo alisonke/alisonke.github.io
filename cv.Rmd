@@ -6,7 +6,7 @@ theme: minty
 <br>
 <br>
 <br>
-<a href="CV_April2020.pdf" target="_blank">Download CV</a>  
+<a href="CV_December2020.pdf" target="_blank">Download CV</a>  
 
 <a href="https://scholar.google.com/citations?user=rxqd074AAAAJ&hl=en" target="_blank">Google Scholar</a>
 
