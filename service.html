@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -69,9 +69,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -85,7 +83,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -190,8 +187,6 @@ $(document).ready(function () {
 });
 </script>
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
 
 <style type="text/css">
@@ -236,6 +231,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -248,20 +244,17 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -319,7 +312,7 @@ $(document).ready(function () {
 </figure>
 <br>
 <div align="left">
-<p>To aid conservation close to home, I am the the Stewardship Co-Chair of the UC Davis Chapter of the Society of Conservation Biology (SCB). I am leading a project working with the City of Davis, the Wildlife Museum, and the local community to create a bluebird nest box network throughout parks in Davis. This local project reflects my motivation to use nest boxes as a conservation tool abroad, in Ecuador. I currently have 11 undergraduate interns to help monitor nest boxes, and I write blog posts about this project at <a href="https://mwfbsongbirdnestbox.wordpress.com/" class="uri">https://mwfbsongbirdnestbox.wordpress.com/</a>.</p>
+<p>To aid conservation close to home, I am the the Stewardship Co-Chair of the UC Davis Chapter of the Society of Conservation Biology (SCB). I am leading a project working with the City of Davis, the Wildlife Museum, and the local community to create a bluebird nest box network throughout parks in Davis. This local project reflects my motivation to use nest boxes as a conservation tool abroad, in Ecuador. Annually, I have around 10 undergraduate interns to help monitor nest boxes, and I write blog posts about this project at <a href="https://mwfbsongbirdnestbox.wordpress.com/" class="uri">https://mwfbsongbirdnestbox.wordpress.com/</a>.</p>
 <p>To learn more about SCB, click <a href="http://davisscb.wixsite.com/scbdavis">here</a>.</p>
 </div>
 <p><br> <br></p>
@@ -331,7 +324,7 @@ $(document).ready(function () {
 </figure>
 <br>
 <div align="left">
-<p>To promote diversity in my field, I serve as a mentor for the Womxn in Science &amp; Engineering (WiSE) program at UC Davis. The mentorship aims to provide a supportive, gender positive environment in which mentors help mentees achieve their academic and professional goals. I just began this program (January, 2019), so I look forward to posting updates shortly. To learn more about the Women’s Resources and Research Center (WRRC), click <a href="https://wrrc.ucdavis.edu/">here</a>.</p>
+<p>To promote diversity in my field, I serve as a mentor for the Womxn in Science &amp; Engineering (WiSE) program at UC Davis. The mentorship aims to provide a supportive, gender positive environment in which mentors help mentees achieve their academic and professional goals. To learn more about the Women’s Resources and Research Center (WRRC), click <a href="https://wrrc.ucdavis.edu/">here</a>.</p>
 </div>
 <p><br></p>
 </div>
@@ -354,6 +347,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
