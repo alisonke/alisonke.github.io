@@ -4,7 +4,7 @@ output: html_document
 theme: minty
 ---
 <br>
-<center>#**Alison Ke**
+<center>**Alison Ke**
 Email: ake@ucdavis.edu
 <br>
 
